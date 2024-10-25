@@ -1,0 +1,17 @@
+89326ed87883377f336d81f8afdfbb0e *DESCRIPTION
+dda0f3e996bbc48f63844c2c62785f97 *NAMESPACE
+242782c17b616e2608506d2c36f3235a *NEWS.md
+8393a1a5b89ad90bdbcc4d7943f018c4 *R/ATSS_Design_Stage1.R
+b8f37712497fa0ba0bf144d6d70deb84 *R/ATSS_Design_Stage2.R
+c768536a8222db196f0599ba66a8c446 *R/ATS_Design.R
+3e9b865419f68c2f23457f9f750c22cb *R/SimonAnalysis.R
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
+9eaeede47f94790466d2a2f6bad8ae84 *build/vignette.rds
+681361261a8c801da17202960d269351 *inst/doc/UnplanSimon.R
+f84da9afbe0d85699ed23b278db0e209 *inst/doc/UnplanSimon.Rmd
+f0e22da4f2ab2b56048a8a25ca96311f *inst/doc/UnplanSimon.html
+cc594699275e4c8d443ad64abf4d9c00 *man/ATSS_Design_Stage1.Rd
+2a7212692f89b60bc51d674999fbf6ec *man/ATSS_Design_Stage2.Rd
+171204c28c7f544f4eda94dbb0c9ffc5 *man/ATS_Design.Rd
+0733d5af7f0b5f433cf836500429e636 *man/SimonAnalysis.Rd
+f84da9afbe0d85699ed23b278db0e209 *vignettes/UnplanSimon.Rmd
